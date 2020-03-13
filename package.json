@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-sass-importer",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "dword-design/nuxt-sass-importer",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "commit": "base commit",
+    "depgraph": "base depgraph",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "release": "base release",
+    "test": "base test"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^6.2.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
