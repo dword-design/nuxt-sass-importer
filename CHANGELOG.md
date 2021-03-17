@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/nuxt-sass-importer/compare/v1.0.3...v1.0.4) (2021-03-17)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#8](https://github.com/dword-design/nuxt-sass-importer/issues/8)) ([d62032f](https://github.com/dword-design/nuxt-sass-importer/commit/d62032f27416d7e85dd9c50ef83c8b7bc73a3451))
+
 ## [1.0.3](https://github.com/dword-design/nuxt-sass-importer/compare/v1.0.2...v1.0.3) (2021-02-17)
 
 
