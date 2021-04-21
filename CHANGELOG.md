@@ -1,3 +1,11 @@
+## [1.0.9](https://github.com/dword-design/nuxt-sass-importer/compare/v1.0.8...v1.0.9) (2021-04-21)
+
+
+### Bug Fixes
+
+* update config files ([bd5e31c](https://github.com/dword-design/nuxt-sass-importer/commit/bd5e31c935171b0a254dfb0472df7e9494d27ffa))
+* updated package.json[description] ([#16](https://github.com/dword-design/nuxt-sass-importer/issues/16)) ([fe6c9ec](https://github.com/dword-design/nuxt-sass-importer/commit/fe6c9ec91ae11e90adc020bbc9a6523814e1f2a5))
+
 ## [1.0.8](https://github.com/dword-design/nuxt-sass-importer/compare/v1.0.7...v1.0.8) (2021-04-20)
 
 
