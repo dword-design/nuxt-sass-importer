@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/nuxt-sass-importer/compare/v1.0.11...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#21](https://github.com/dword-design/nuxt-sass-importer/issues/21)) ([6b80a02](https://github.com/dword-design/nuxt-sass-importer/commit/6b80a02af9e7d6daa56dde0e084961358aa83ecf))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.11](https://github.com/dword-design/nuxt-sass-importer/compare/v1.0.10...v1.0.11) (2021-04-28)
 
 
