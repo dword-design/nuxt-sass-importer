@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/dword-design/nuxt-sass-importer/compare/v2.0.5...v2.0.6) (2022-01-12)
+
+
+### Bug Fixes
+
+* update config files ([2f86c7c](https://github.com/dword-design/nuxt-sass-importer/commit/2f86c7cbd096ad0dc171ca16973405decc3fbedd))
+
 ## [2.0.5](https://github.com/dword-design/nuxt-sass-importer/compare/v2.0.4...v2.0.5) (2022-01-04)
 
 
