@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/nuxt-sass-importer/compare/v2.0.7...v2.0.8) (2023-01-08)
+
+
+### Bug Fixes
+
+* trigger release ([69f4d79](https://github.com/dword-design/nuxt-sass-importer/commit/69f4d79fff0d4c638c340f4f3ba7109d7018b527))
+
 ## [2.0.7](https://github.com/dword-design/nuxt-sass-importer/compare/v2.0.6...v2.0.7) (2023-01-08)
 
 
